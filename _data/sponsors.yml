@@ -3,7 +3,7 @@
 # img/sponsors/guide.pdf
 
 pdf:
-call_for_sponsor: true
+call_for_sponsor: false
 
 main:
   price: € 10,000
