@@ -33,9 +33,12 @@
           <a href="{{ site.baseurl }}/#venue" class="button">
             Dove
           </a>
-          <!--a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
-            Sponsors
-          </a-->
+
+          {% if site.data.sponsors.call_for_sponsor %}
+            <a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
+              Sponsors
+            </a>
+          {% endif %}
 
           {% if site.data.tickets.sold_out %}
             <div class="button button--sold-out">
