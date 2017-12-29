@@ -1,9 +1,11 @@
+$color-palecssday: rgb(0, 255, 255);
+$color-carnation: rgb(89,89,89);
 
 $color-background-action: $color-carnation;
-$color-background-dark: $color-mine-shaft;
+$color-background-dark: $color-palecssday; //mine-shaft;
 $color-background-info: $color-carnation;
 $color-background: $color-white;
-$color-background-grusp: $color-black;
+$color-background-grusp: $color-palecssday;
 
 $color-text-talk-speakers-title: $color-white;
 $color-background-talk-speakers: $color-black;
@@ -18,8 +20,8 @@ $color-background-sponsor-hover: rgba($color-mine-shaft, 0.05);
 
 $color-menu-button-alt: $color-carnation;
 $color-menu-button: $color-white;
-$color-menu-left: rgba($color-carnation, 0.975);
-$color-menu-right: rgba($color-mine-shaft, 0.975);
+$color-menu-left: rgba($color-white, 0.975);
+$color-menu-right: rgba($color-palecssday, 0.975);
 
 $color-button-sold-out: $color-mine-shaft;
 
