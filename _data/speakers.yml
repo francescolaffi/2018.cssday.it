@@ -10,3 +10,17 @@ list:
 #    first_name: Massimo
 #    last_name: 	Artizzu
 #    twitter: MaxArt2501
+  -
+    id: violo
+    description:
+    image: violo.jpg
+    first_name: Alessandro
+    last_name: Violini
+    twitter: violo
+  -
+    id: stefania-mellai
+    description:
+    image: stefania-mellai.jpg
+    first_name: stefania
+    last_name: Mellai
+    twitter: smellai
