@@ -5,9 +5,9 @@
   </div>
 </div>
 
-
 <div class="limit">
   <div class="speakers">
+    {% if site.data.speakers.show_speakers %}
     {% for speaker in site.data.speakers.list %}
       <div class="speakers__column">
         <div class="speaker">
@@ -29,6 +29,7 @@
         </div>
       </div>
     {% endfor %}
+    {% endif %}
     {% if site.data.speakers.call_for_paper %}
       <div class="speakers__column speakers__column--cfp">
         More speakers coming soon
