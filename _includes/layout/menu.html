@@ -35,6 +35,14 @@
       <ul class="menu__list">
         {% if site.data.conference.show_talks %}
         <li class="menu__item">
+          <a href="{{ site.baseurl }}/talks.html" class="menu__button">
+            Talks
+          </a>
+        </li>
+        {% endif %}
+
+        {% if site.data.conference.show_schedule %}
+        <li class="menu__item">
           <a href="{{ site.baseurl }}/schedule.html" class="menu__button">
             Programma
           </a>
