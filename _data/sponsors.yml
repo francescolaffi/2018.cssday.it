@@ -69,3 +69,6 @@ bronze:
     - 1 biglietto gratuito
   max: 32
   list:
+    -
+      url: http://www.extrategy.it
+      image: extrategy.svg
