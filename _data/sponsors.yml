@@ -33,12 +33,8 @@ platinum:
     - Banchetto 1m x 1m in sala o nella hall
   max: 2
   list:
-    -
-      url: http://www.kerning.it
-      image: kerning.svg
-    -
-      url: http://www.jsday.it
-      image: jsday.svg
+
+
 
 gold:
   price: € 1,000
@@ -50,6 +46,12 @@ gold:
     - 3 biglietti gratuiti
   max: 8
   list:
+    -
+      url: http://www.jsday.it
+      image: jsday.svg
+    -
+      url: http://www.kerning.it
+      image: kerning.svg
 
 silver:
   price: € 500
