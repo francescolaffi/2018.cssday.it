@@ -20,16 +20,23 @@
             Talks
           </a>
           {% endif %}
-          
+
           {% if site.data.conference.show_schedule %}
           <a href="{{ site.baseurl }}/schedule.html" class="button">
             Programma
           </a>
           {% endif %}
 
+
+          {% if site.data.conference.show_workshop %}
+          <a href="{{ site.baseurl }}/workshop.html" class="button">
+            Workshop
+          </a>
+          {% endif %}
+
           {% if site.data.speakers.call_for_paper %}
-            <a href="{{ site.data.speakers.call_for_paper_url }}" target="_blank"  class="button">
-              Call for Paper
+            <a href="{{ site.data.speakers.call_for_paper_url }}" target="_blank"  class="button button--register" alt="Call for Paper">
+              CFP
             </a>
           {% endif %}
 

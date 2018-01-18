@@ -41,6 +41,14 @@
         </li>
         {% endif %}
 
+        {% if site.data.conference.show_workshop %}
+        <li class="menu__item">
+          <a href="{{ site.baseurl }}/workshop.html" class="menu__button">
+            workshop
+          </a>
+        </li>
+        {% endif %}
+        
         {% if site.data.conference.show_schedule %}
         <li class="menu__item">
           <a href="{{ site.baseurl }}/schedule.html" class="menu__button">
