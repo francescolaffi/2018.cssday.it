@@ -33,7 +33,9 @@ platinum:
     - Banchetto 1m x 1m in sala o nella hall
   max: 2
   list:
-
+   -
+     url: http://www.reply.com/triplesense/it/?utm_source=cssday2018
+     image: triplesensereply.svg
 
 
 gold:
