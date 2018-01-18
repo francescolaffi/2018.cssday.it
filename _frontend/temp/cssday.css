@@ -1478,6 +1478,14 @@ body {
   overflow: visible;
 }
 
+.link {
+  color: cyan;
+}
+
+.link:hover {
+  color: #00e6e6;
+}
+
 .mega-info {
   color: #595959;
   display: inline-block;

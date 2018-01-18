@@ -1,6 +1,3 @@
-$color-palecssday: rgb(0, 255, 255);
-$color-carnation: rgb(89,89,89);
-
 $color-background-action: $color-carnation;
 $color-background-dark: $color-palecssday; //mine-shaft;
 $color-background-info: $color-carnation;
@@ -22,6 +19,8 @@ $color-menu-button-alt: $color-carnation;
 $color-menu-button: $color-white;
 $color-menu-left: rgba($color-white, 0.975);
 $color-menu-right: rgba($color-palecssday, 0.975);
+
+$color-link: $color-palecssday;
 
 $color-button-sold-out: $color-mine-shaft;
 
