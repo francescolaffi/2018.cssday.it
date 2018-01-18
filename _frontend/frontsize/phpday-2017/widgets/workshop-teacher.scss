@@ -1,0 +1,16 @@
+@include block ('workshop-teacher') {
+  display: flex;
+  align-items: center;
+
+  @include element ('avatar') {
+    $size: 86px;
+    height: auto;
+    margin-right: s(1);
+    width: $size;
+  }
+
+  @include element ('name') {
+    font-size: 18px;
+    font-weight: 600;
+  }
+}

@@ -2236,6 +2236,10 @@ body {
   padding: 20px;
 }
 
+.row__column--no-line-height {
+  line-height: inherit;
+}
+
 .row__title {
   font-family: "proxima-nova", helvetica, arial, sans-serif;
   font-style: normal;
@@ -2553,6 +2557,14 @@ body {
 
 .social + .social {
   margin-left: 10px;
+}
+
+.social--small {
+  border-radius: 32px;
+  font-size: 14px;
+  height: 32px;
+  line-height: 32px;
+  width: 32px;
 }
 
 .social--footer {
@@ -4724,4 +4736,22 @@ body {
   .vimeo__video {
     height: 56vw;
   }
+}
+
+.workshop-teacher {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
+
+.workshop-teacher__avatar {
+  height: auto;
+  margin-right: 10px;
+  width: 86px;
+}
+
+.workshop-teacher__name {
+  font-size: 18px;
+  font-weight: 600;
 }
