@@ -24,9 +24,9 @@
   }
 
   @include modifier ('small') {
-    $size: 32px;
+    $size: 28px;
     border-radius: $size;
-    font-size: 14px;
+    font-size: s(.375, $size);
     height: $size;
     line-height: $size;
     width: $size;

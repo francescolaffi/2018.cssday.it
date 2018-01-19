@@ -2248,6 +2248,16 @@ body {
   margin-top: 60px;
 }
 
+.flex-row {
+  align-items: center;
+  display: flex;
+  margin: 0 -10px;
+}
+
+.flex-row__column {
+  padding: 10px;
+}
+
 .schedule-intro {
   margin-left: -40px;
   margin-right: -40px;
@@ -2546,11 +2556,11 @@ body {
 }
 
 .social--small {
-  border-radius: 32px;
-  font-size: 14px;
-  height: 32px;
-  line-height: 32px;
-  width: 32px;
+  border-radius: 28px;
+  font-size: 11px;
+  height: 28px;
+  line-height: 28px;
+  width: 28px;
 }
 
 .social--footer {
@@ -4716,8 +4726,11 @@ body {
 }
 
 .workshop-teacher {
-  display: flex;
   align-items: center;
+  background-color: cyan;
+  display: flex;
+  padding: 10px;
+  white-space: nowrap;
 }
 
 .workshop-teacher__avatar {
@@ -4729,6 +4742,10 @@ body {
 .workshop-teacher__name {
   font-size: 18px;
   font-weight: 600;
+}
+
+.workshop-teacher__social {
+  margin-top: 5px;
 }
 
 /*# sourceMappingURL=cssday.css.map */
