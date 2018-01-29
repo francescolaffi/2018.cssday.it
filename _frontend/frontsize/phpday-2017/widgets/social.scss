@@ -23,6 +23,15 @@
     margin-left: s(1);
   }
 
+  @include modifier ('small') {
+    $size: 28px;
+    border-radius: $size;
+    font-size: s(.375, $size);
+    height: $size;
+    line-height: $size;
+    width: $size;
+  }
+
   @include modifier ('footer') {
     color: $color-text;
     margin-bottom: s(1);

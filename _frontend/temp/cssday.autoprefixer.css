@@ -2236,6 +2236,10 @@ body {
   padding: 20px;
 }
 
+.row__column--no-line-height {
+  line-height: inherit;
+}
+
 .row__title {
   font-family: "proxima-nova", helvetica, arial, sans-serif;
   font-style: normal;
@@ -2253,6 +2257,18 @@ body {
 
 .row__text + .row__title {
   margin-top: 60px;
+}
+
+.flex-row {
+  -ms-flex-align: center;
+      align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 -10px;
+}
+
+.flex-row__column {
+  padding: 10px;
 }
 
 .schedule-intro {
@@ -2553,6 +2569,14 @@ body {
 
 .social + .social {
   margin-left: 10px;
+}
+
+.social--small {
+  border-radius: 28px;
+  font-size: 11px;
+  height: 28px;
+  line-height: 28px;
+  width: 28px;
 }
 
 .social--footer {
@@ -4724,4 +4748,29 @@ body {
   .vimeo__video {
     height: 56vw;
   }
+}
+
+.workshop-teacher {
+  -ms-flex-align: center;
+      align-items: center;
+  background-color: cyan;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+.workshop-teacher__avatar {
+  height: auto;
+  margin-right: 10px;
+  width: 86px;
+}
+
+.workshop-teacher__name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.workshop-teacher__social {
+  margin-top: 5px;
 }
