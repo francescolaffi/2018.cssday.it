@@ -64,6 +64,9 @@ silver:
     - 2 biglietti gratuiti
   max: 16
   list:
+    -
+      url: https://www.balsamiq.com
+      image: balsamiq.svg       
 
 bronze:
   price: € 300
