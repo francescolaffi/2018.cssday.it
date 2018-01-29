@@ -25,3 +25,10 @@ list:
     first_name: Stefania
     last_name: Mellai
     twitter: smellai
+  -
+    id: andrea-decarolis
+    description:
+    image: andrea-decarolis.jpg
+    first_name: Andrea
+    last_name: De Carolis
+    twitter: decarola
