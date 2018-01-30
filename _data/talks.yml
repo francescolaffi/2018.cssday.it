@@ -16,4 +16,9 @@
   keynote: false
   extract: >
    "Il layout... contenitore dei nostri design pattern e delle funzionalità, scheletro delle nostre webapp che deve reagire ai diversi device e viewport. Sempre più spesso la buona logica di architettura del layout influisce sul debito tecnico, sulla bontà del codice e sul riuso. Una minuziosa saga delle varie tecniche realizzative di layout analizzate per features, limiti e compatibilità e la soluzione per metterli a styleguide pronti per essere implementati comodamente da tutto il team."
-  
+-
+  speaker_id: andrea-decarolis
+  title: "Uno stile per ogni occasione."
+  keynote: true
+  extract: >
+   "Il front end sta migliorando di anno in anno e il futuro pare riservare solo buone novelle. Come ogni progresso però, c’è un prezzo da pagare: la costante revisione degli strumenti e concetti sempre nuovi da assimilare. È possibile trovare un equilibrio tra la potenza del nuovo e la fatica del costante aggiornamento? Fermiamoci un momento e vediamo cosa ne pensano alcune menti brillanti (non la mia), e proviamo a tirare le somme."
