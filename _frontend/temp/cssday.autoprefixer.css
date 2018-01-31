@@ -905,7 +905,7 @@ body {
 }
 
 .button--menu {
-  background-color: cyan;
+  background-color: #00dddd;
   float: right;
   height: 38px;
   margin-left: 20px;
@@ -1080,7 +1080,7 @@ body {
 }
 
 .footer {
-  background-color: cyan;
+  background-color: #00dddd;
   clear: both;
   color: #595959;
   overflow: hidden;
@@ -1149,7 +1149,7 @@ body {
 }
 
 .footer__grusp-footer {
-  background-color: cyan;
+  background-color: #00dddd;
   color: #595959;
   font-size: 14px;
   line-height: 24px;
@@ -1450,11 +1450,11 @@ body {
 }
 
 .link {
-  color: cyan;
+  color: #00dddd;
 }
 
 .link:hover {
-  color: #00e6e6;
+  color: #00c4c4;
 }
 
 .mega-info {
@@ -1667,7 +1667,7 @@ body {
   height: 100vh;
   padding: 30px;
   width: 50%;
-  background-color: rgba(0, 255, 255, 0.975);
+  background-color: rgba(0, 221, 221, 0.975);
   overflow: auto;
 }
 
@@ -1831,7 +1831,7 @@ body {
 }
 
 .newsletter {
-  background-color: cyan;
+  background-color: #00dddd;
   clear: both;
   color: white;
   margin-bottom: -120px;
@@ -1878,7 +1878,7 @@ body {
   font-family: georgia, "times new roman", times, serif;
   font-style: italic;
   font-weight: 700;
-  background-color: cyan;
+  background-color: #00dddd;
   border: 0;
   border-bottom: 2px solid white;
   color: white;
@@ -1921,15 +1921,15 @@ body {
 }
 
 .newsletter__email:focus::-webkit-input-placeholder {
-  color: #33ffff;
+  color: #33e4e4;
 }
 
 .newsletter__email:focus:-ms-input-placeholder {
-  color: #33ffff;
+  color: #33e4e4;
 }
 
 .newsletter__email:focus::placeholder {
-  color: #33ffff;
+  color: #33e4e4;
 }
 
 .newsletter__email::-webkit-input-placeholder {
@@ -2364,7 +2364,7 @@ body {
 }
 
 .schedule__head {
-  background-color: cyan;
+  background-color: #00dddd;
   color: white;
   font-size: 24px;
   padding: 10px 20px;
@@ -2446,7 +2446,7 @@ body {
 }
 
 .schedule__cell--break {
-  border: 1px solid cyan;
+  border: 1px solid #00dddd;
   border-left: 0;
   border-right: 0;
 }
@@ -3069,7 +3069,7 @@ body {
 }
 
 .sponsor-option {
-  background-color: cyan;
+  background-color: #00dddd;
   color: #595959;
   min-height: 555px;
   padding: 20px;
@@ -4753,7 +4753,7 @@ body {
 .workshop-teacher {
   -ms-flex-align: center;
       align-items: center;
-  background-color: cyan;
+  background-color: #00dddd;
   display: -ms-flexbox;
   display: flex;
   padding: 10px;
