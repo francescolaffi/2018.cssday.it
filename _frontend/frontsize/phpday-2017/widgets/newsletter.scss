@@ -101,11 +101,11 @@
 
   @include element ('link') {
     @include title-uppercase;
-    color: $color-background-action;
+    color: $color-text-form;
     transition: color 0.25s ease-in-out;
 
     &:hover {
-      color: $color-text-info;
+      color: mix($color-text-form, $color-background-dark, 20%);
     }
   }
 

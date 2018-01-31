@@ -1,5 +1,5 @@
 @include block ('button') {
-  color: $color-background-action;
+  color: $color-text;
   cursor: pointer;
   display: inline-block;
   font-family: $font-family-header;
@@ -11,7 +11,7 @@
   transition: background-color 0.075s ease-out, color 0.075s ease-out;
 
   &:hover {
-    color: $color-text;
+    color: $color-background-action;
   }
 
   @include modifier ('left') {
@@ -35,7 +35,7 @@
     user-select: none;
 
     &:hover {
-      color: $color-text-info;
+      color: darken($color-text-info, 20%);
     }
   }
 
@@ -80,14 +80,14 @@
   @include modifier ('submit-disabled') {
     background-color: transparent;
     border: 0;
-    color: $color-text-info;
+    color: $color-text;
     cursor: default;
     position: relative;
     transition: color 0.25s ease-out;
     user-select: none;
 
     &:hover {
-      $transparent: rgba($color-text-info, 0.3);
+      $transparent: rgba($color-text, 0.3);
       color: $transparent;
 
       &::after {
