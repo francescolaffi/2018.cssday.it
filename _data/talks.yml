@@ -22,3 +22,21 @@
   keynote: true
   extract: >
    "Il front end sta migliorando di anno in anno e il futuro pare riservare solo buone novelle. Come ogni progresso però, c’è un prezzo da pagare: la costante revisione degli strumenti e concetti sempre nuovi da assimilare. È possibile trovare un equilibrio tra la potenza del nuovo e la fatica del costante aggiornamento? Fermiamoci un momento e vediamo cosa ne pensano alcune menti brillanti (non la mia), e proviamo a tirare le somme."
+-
+  speaker_id: giulia-laco
+  title: "Web font mania – nel bene e nel male"
+  keynote: false
+  extract: >
+   "I web font sono utilizzati ormai sulla quasi totalità dei nuovi siti web e non solo. Indubbiamente rappresentano una ghiotta opportunità per la comunicazione. Non sempre però gli utilizzatori sono consapevoli di tutte le conseguenze che ciò comporta: nel bene e nel male. Ragionamenti tecnici e strategici su come sceglierli, come usarli (buone pratiche di typesetting) e come implementarli con attenzione ai nuovi formati (woff2, variable font), alla performance e al progressive enhancement."
+-
+  speaker_id: giacomo-zinetti
+  title: "Super fast transitions"
+  keynote: false
+  extract: >
+   "Cerchiamo di capire come migliorare i nostri siti e applicazioni web con animazioni e transizioni capaci di funzionare anche senza trasformare il vostro telefono in una piastra buona per cuocere le bistecche."
+-
+  speaker_id: massimo-artizzu
+  title: "Incapsulamento e theming: le nuove frontiere dell'ultima sfida CSS"
+  keynote: false
+  extract: >
+   "La 'cascata' del CSS ci ha da sempre consentito di estendere e ridefinire regole e dichiarazioni di stile, ma più spesso si è rivelato uno strumento difficile da usare e controllare. Per questo abbiamo perseguito, e finalmente conquistato (con l'arrivo dei Web Component) l'incapsulamento degli stili. Tuttavia, la necessità rimane: come adattare un componente esterno al nostro design, se gli stili sono isolati? Vedremo in una panoramica le tecniche passate, presenti e future per lavorare con interfacce componentizzate senza sacrificare le nostre esigenze di design o la riusabilità degli elementi."
