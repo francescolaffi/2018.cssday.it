@@ -35,7 +35,7 @@ list:
   -
     id: giulia-laco
     description:
-    image: giulia-laco.png
+    image: giulia-laco.jpg
     first_name: Giulia
     last_name: Laco
     twitter: webmatter_it
@@ -43,7 +43,7 @@ list:
   -
     id: massimo-artizzu
     description:
-    image: massimo-artizzu.png
+    image: massimo-artizzu.jpg
     first_name: Massimo
     last_name: Artizzu
     twitter: MaxArt2501
