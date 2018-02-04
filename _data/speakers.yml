@@ -39,7 +39,6 @@ list:
     first_name: Giulia
     last_name: Laco
     twitter: webmatter_it
-    twitter: decarola
   -
     id: massimo-artizzu
     description:
@@ -47,11 +46,24 @@ list:
     first_name: Massimo
     last_name: Artizzu
     twitter: MaxArt2501
-    twitter: decarola
   -
     id: giacomo-zinetti
     description:
     image: giacomo-zinetti.jpg
     first_name: Giacomo
     last_name: Zinetti
-    twitter: MaxArt2501
+    twitter: gcmznt
+  -
+    id: davide-dipumpo
+    description:
+    image: davide-dipumpo.jpg
+    first_name: Davide
+    last_name: Di Pumpo
+    twitter: makhbeth
+  -
+    id: carmine-alfano
+    description:
+    image: carmine-alfano.jpg
+    first_name: Carmine
+    last_name: Alfano
+    twitter: razzullo

@@ -40,3 +40,15 @@
   keynote: false
   extract: >
    "La 'cascata' del CSS ci ha da sempre consentito di estendere e ridefinire regole e dichiarazioni di stile, ma più spesso si è rivelato uno strumento difficile da usare e controllare. Per questo abbiamo perseguito, e finalmente conquistato (con l'arrivo dei Web Component) l'incapsulamento degli stili. Tuttavia, la necessità rimane: come adattare un componente esterno al nostro design, se gli stili sono isolati? Vedremo in una panoramica le tecniche passate, presenti e future per lavorare con interfacce componentizzate senza sacrificare le nostre esigenze di design o la riusabilità degli elementi."
+-
+  speaker_id: carmine-alfano
+  title: "Media Queries Next Level"
+  keynote: false
+  extract: >
+   "È tempo di pensare alle nuove funzionalità introdotte nelle specifiche 'media queries level 4' che da poco hanno ottenuto lo stato di 'candidate recommendation' dal W3C. In questa sessione analizzeremo le principali novità e come sarà possibile utilizzare questo strumento per migliorare il nostro flusso di lavoro."
+-
+  speaker_id: davide-dipumpo
+  title: "Come Javascript ha cambiato il CSS"
+  keynote: false
+  extract: >
+   "Le nostre applicazioni diventano sempre più Javascript centriche. Dai build tool ai template engine, dai server agli static site generator. Anche il CSS non è stato risparmiato da questa rivoluzione di paradigmi. Vedremo insieme come tool come i CSS modules, gli styled-components e node possono rendere il nostro CSS migliore"
