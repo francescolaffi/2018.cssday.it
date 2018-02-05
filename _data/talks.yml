@@ -52,3 +52,10 @@
   keynote: false
   extract: >
    "Le nostre applicazioni diventano sempre più Javascript centriche. Dai build tool ai template engine, dai server agli static site generator. Anche il CSS non è stato risparmiato da questa rivoluzione di paradigmi. Vedremo insieme come tool come i CSS modules, gli styled-components e node possono rendere il nostro CSS migliore"
+   "È tempo di pensare alle nuove funzionalità introdotte nelle specifiche 'media queries level 4' che da poco hanno ottenuto lo stato di 'candidate recommendation' dal W3C. In questa sessione analizzeremo le principali novità e come sarà possibile utilizzare questo strumento per migliorare il nostro flusso di lavoro."
+-
+  speaker_id: andrea-barghigiani
+  title: "Modifichiamo le nostre SVG grazie ai CSS"
+  keynote: false
+  extract: >
+   "La Scalable Vector Graphics sono uno standard da moltissimi anni e permettono di ridurre il tempo di caricamento dei nostri siti web e di presentare delle immagini vettoriali completamente scalabili. Molto spesso però non si sa come sia possibile modificarle grazie ai CSS ed è per questo motivo che in questa presentazione di presenterò come farlo e addirittura come animare queste immagini."
