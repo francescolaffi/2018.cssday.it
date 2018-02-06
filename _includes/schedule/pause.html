@@ -11,6 +11,9 @@
     <div class="schedule__title">
       <i class="icon-{{ include.icon }}"></i>
       {{ include.title }}
+        <div class="schedule__detail">
+          {% if include.offerto %} offerto dal GrUSP {% endif %}
+        </div>
     </div>
   </td>
 </tr>
