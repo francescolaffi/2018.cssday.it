@@ -54,6 +54,9 @@ gold:
     -
       url: http://www.kerning.it
       image: kerning.svg
+    -
+      url: http://www.antreem.com
+      image: antreem.svg
 
 silver:
   price: € 500
@@ -66,7 +69,7 @@ silver:
   list:
     -
       url: https://www.balsamiq.com
-      image: balsamiq.svg       
+      image: balsamiq.svg
 
 bronze:
   price: € 300
